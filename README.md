@@ -4,7 +4,7 @@ This assignment serves as a workplace team generator using node.js. After the us
 
 <iframe src="https://drive.google.com/file/d/1OY4tyeewx-SRrccFhKkzfhr_OUKk6Qbf/preview" width="640" height="480"></iframe>
 
-<strong>Link to site:</strong> https://hartbt.github.io/hw-7-readmeGenerator//
+<strong>Link to site:</strong> https://hartbt.github.io/hw-8-templateEngine/
 
 <strong>Screenshot of site:</strong> 
 <img src= "screencapture-file-Users-brendonhart-Desktop-BootCamp-Classwork-Homework-HW-08-templateEngine-Develop-output-team-html-2020-10-21-20_36_56.png">
